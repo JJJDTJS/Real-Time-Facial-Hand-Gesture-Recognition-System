@@ -1,0 +1,3 @@
+/data/mxBaseVideoSample/build/CMakeFiles/stream_pull_test.dir
+/data/mxBaseVideoSample/build/CMakeFiles/edit_cache.dir
+/data/mxBaseVideoSample/build/CMakeFiles/rebuild_cache.dir
